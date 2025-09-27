@@ -1,0 +1,8 @@
+{
+  "name": "blackout-x",
+  "version": "1.0.0",
+  "description": "Blackout-X (Apocalypse Idle Clicker) - GitHub/Appflow ready",
+  "scripts": {
+    "start": "echo 'static project'"
+  }
+}
